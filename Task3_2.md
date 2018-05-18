@@ -1,0 +1,3 @@
+El Real Time Factor es un valor que represnta la relacion entre el tiempo de simulacion (#timesteps * tamano del paso) y el numero de actualizaciones del modelo fisico que se realizaron. Es decir que si se realizan 100 actualizaciones por segundo y 100 pasos de tiempo por segundo vamos a tener un Real Time Factor de 1.
+
+Es deseable que se corran las simulaciones con un Real Time Factor de 1 ya que esto significa que se estan corriendo en tiempo real.
